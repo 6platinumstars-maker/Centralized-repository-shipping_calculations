@@ -1,4 +1,3 @@
-# Here is a new update by 6.platinumstars-maker
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
