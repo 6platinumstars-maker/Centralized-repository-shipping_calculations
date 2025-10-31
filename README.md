@@ -19,4 +19,4 @@ All contributions undergo a code review process.
 Licensing:
 Contributions are licensed.
 
-By 6platununstars-maker
+By 6platununstars-maker Change
